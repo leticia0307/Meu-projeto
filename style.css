@@ -2,7 +2,7 @@
 .cabecalho {
   text-align: center;
   padding: 2rem;
-  background: #6c63ff;
+  background: #63c1ff;
 }
 
 .container {
@@ -28,7 +28,8 @@
   flex: 1;
   min-width: 150px;
   padding: 20px;
-  background: #6c63ff;
+  background: #63c1ff;
+  background: #;
   border-radius: 10px;
   text-align: center;
   transition: transform 0.3s;
@@ -44,11 +45,12 @@ ul {
 
 .destaque {
   text-align: center;
-  background: #87dc876e;
+  background: #63c1ff;
+  background: #c876e;
 }
 
 .rodape {
   text-align: center;
   padding: 15px;
-  background: #c0bfb8;
+  background: #ffffff;
 }
